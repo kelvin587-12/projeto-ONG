@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Três Caixas Lado a Lado</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <header class="cabecalho">
+            <h1>ConectaONG</h1>
+        </header>
+  <div class="container">
+    <div class="caixa">
+      <h2>sobre</h2>
+      <p>A ConectaONG é um sistema web completo que oferece às Organizações Não Governamentais uma presença digital profissional e funcional, conectando causas sociais a pessoas e empresas dispostas a fazer a diferença. Nosso objetivo é fortalecer o impacto das ONGs, proporcionando ferramentas modernas de gestão, transparência e comunicação.</p>
+    </div>
+
+    <div class="caixa">
+      <h2>como doar</h2>
+      <p>Promover a transformação social através da tecnologia, facilitando o acesso de ONGs a recursos digitais que ampliem sua visibilidade, eficiência e credibilidade..</p>
+    </div>
+
+    <div class="caixa">
+      <h2>cadastro</h2>
+      <p>Ser referência nacional em soluções digitais para o terceiro setor, impulsionando o crescimento sustentável de ONGs em todo o país..</p>
+    </div>
+  </div>
+  <footer class="rodape">
+            © 2024 ConectaONG
+        </footer>
+</body>
+</html>
